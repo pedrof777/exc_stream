@@ -1,4 +1,6 @@
-package br.com.pedroferreira.Domain;
+package br.com.pedroferreira.services;
+
+import br.com.pedroferreira.Domain.Atletas;
 
 import java.util.*;
 
